@@ -25,7 +25,7 @@
 ---
 
 ### Link
-[Visit GitHub](https://github.com)
+[Visit GitHub](https://github.com/eodell22/322)
 
 ### Image
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
